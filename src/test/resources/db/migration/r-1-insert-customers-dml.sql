@@ -1,0 +1,2 @@
+INSERT INTO CUSTOMER(NAME, CPF, ADDRESS) VALUES ('Carlos', '98985646010', '17 September Street, number 123');
+INSERT INTO CUSTOMER(NAME, CPF, ADDRESS) VALUES ('Eduardo', '80704555000', 'May first Street, number 123');
