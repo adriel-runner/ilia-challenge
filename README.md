@@ -1,7 +1,7 @@
 # Ilía Challenge
 
 ### Description
-This project was created as step in a technical evaluation.
+This project was created as a step of a technical evaluation.
 
 ### Deployed App on Heroku
 https://adriel-ilia-challenge.herokuapp.com/swagger-ui.html
